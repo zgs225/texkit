@@ -25,7 +25,7 @@ import (
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
 	Use:   "texkit",
-	Short: "A toolkit for Latex",
+	Short: "A toolkit for LaTex",
 }
 
 // Execute adds all child commands to the root command and sets flags appropriately.
