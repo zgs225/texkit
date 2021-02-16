@@ -3,6 +3,12 @@ TexKit
 
 A toolkit for LaTex.
 
+## Installing
+
+```
+go get -u github.com/zgs225/texkit
+```
+
 ## Usage
 
 ```
